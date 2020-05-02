@@ -3,4 +3,4 @@ Pre Required
 English
 Git
 Github
-Basic Terminal Usage
+Data structures & algoritms
